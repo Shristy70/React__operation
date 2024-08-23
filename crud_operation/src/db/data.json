@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": "123",
+      "name": "pari",
+      "number": "6253537",
+      "Description": "this is my first repository project",
+      "From": "bhopal",
+      "To": "delhi",
+      "passanger": "1",
+      "Baggages": "ac",
+      "Price": "399999"
+    },
+    {
+      "id": "12f2",
+      "name": "mehak",
+      "number": "22737373",
+      "Description": "i am a new student",
+      "From": "bhopal",
+      "To": "bihar",
+      "passanger": "1",
+      "Baggages": "ac",
+      "Price": "399999"
+    },
+    {
+      "id": "f95e",
+      "name": "khushi",
+      "number": "22737373",
+      "Description": "i am a new student",
+      "From": "bhopal",
+      "To": "bihar",
+      "passanger": "1",
+      "Baggages": "ac",
+      "Price": "399999"
+    }
+  ]
+}
